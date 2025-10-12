@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willy903
 - 👀 I’m interested in web design and front-end
 - 🌱 I’m currently learning in sayna
-- 📫 How to reach me : +261 34 28 124 62
+- 📫 How to reach me : +261 34 50 557 68
 - Mail: willyjacquino@gmail.com
 - Linkedin: https://www.linkedin.com/in/willy-jacquino-heriniaina-6b6465111/
 - Portfolio: https://willyjh-portfolio.netlify.app/
