@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willy903
-- 👀 I’m interested in web design and front-end
+- 👀 I’m interested in web design and frontend
 - 🌱 I’m currently learning in sayna
 - 📫 How to reach me : +261 34 50 557 68
 - Mail: willyjacquino@gmail.com
